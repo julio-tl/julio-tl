@@ -1,6 +1,7 @@
 import requests
 
 DRUID_HOST = "http://druid.dev.ssa.triplelift.net"
+# DRUID_HOST = "http://druid.prod.ssa.triplelift.net"
 
 LOOKUPS_TO_DELETE = [
     "active_brands_lookup_druid",
